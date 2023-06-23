@@ -1,5 +1,7 @@
 <h1 align='center'>Digital Banking</h1>
-Projet de fin de module JEE permetant de gérer des comptes bancaires où chaque compte appartient à un client. Un compte peut subir plusieurs opérations de type DEBIT ou CREDIT. Il existe deux types de comptes : Comptes courants et comptes épargnes.
+
+#Projet de fin de module JEE permetant de gérer des comptes bancaires où chaque compte appartient à un client. Un compte peut subir plusieurs opérations de type DEBIT ou CREDIT. Il existe deux types de comptes : Comptes courants et comptes épargnes.
+
 # E-bank-Backend
 
 ![1](https://github.com/mohamedabdeddine/ebank-backend-part2/assets/64565671/196012d0-af48-4546-a3fc-4f5cca3cb096)
